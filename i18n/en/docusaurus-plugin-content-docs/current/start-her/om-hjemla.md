@@ -27,7 +27,7 @@ Hjemla gives private individuals access to much of the same information that pro
 | Coverage | Over 2.5 million private homes in Norway |
 | Price | Free for consumers (in partnership with If Forsikring) |
 | Owner / operator | Hjemla v/ Placepoint AS, Tordenskiolds gate 2, 0160 Oslo |
-| Channels | Web (hjemla.no) and the Hjemla GO mobile app |
+| Channels | Web (hjemla.no) |
 | Main data source | Public property data via Ambita, enriched with listing, sales and owner data |
 
 :::tip

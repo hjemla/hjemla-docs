@@ -17,7 +17,6 @@ Most of Hjemla is open and free. Some features require you to log in.
 | Neighbourhoods and prices | Open, no account |
 | My home (Min bolig) | Requires login |
 | Considered for sale | Requires login (free) |
-| Hjemla GO | Free app |
 
 ## Privacy & terms
 

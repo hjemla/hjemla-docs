@@ -27,7 +27,7 @@ Hjemla gir privatpersoner tilgang til mye av den samme informasjonen som proffe 
 | Dekning | Over 2,5 millioner privatboliger i Norge |
 | Pris | Gratis for forbrukere (i samarbeid med If Forsikring) |
 | Eier / drift | Hjemla v/ Placepoint AS, Tordenskiolds gate 2, 0160 Oslo |
-| Kanaler | Web (hjemla.no) og mobilappen Hjemla GO |
+| Kanaler | Web (hjemla.no) |
 | Hoveddatakilde | Offentlige eiendomsdata via Ambita, beriket med annonse-, salgs- og eierdata |
 
 :::tip

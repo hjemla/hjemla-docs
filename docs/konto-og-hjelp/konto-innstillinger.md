@@ -17,7 +17,6 @@ Det meste av Hjemla er åpent og gratis. Noen funksjoner krever at du logger inn
 | Nabolag og boligpriser | Åpent, uten konto |
 | Min bolig | Krever innlogging |
 | Vurderes solgt | Krever innlogging (gratis) |
-| Hjemla GO | Gratis app |
 
 ## Personvern og vilkår
 
